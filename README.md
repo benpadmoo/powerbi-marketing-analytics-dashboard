@@ -1,5 +1,6 @@
 # powerbi-marketing-analytics-dashboard
 # Toy Store Sales Analytics Dashboard
+<iframe title="Benjamin_PowerBI_MKT317" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmY1YjQ2OGUtNmFhZi00NjY0LTllNDEtMGYzNjllZjBiZjc5IiwidCI6IjIyMTc3MTMwLTY0MmYtNDFkOS05MjExLTc0MjM3YWQ1Njg3ZCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 A Power BI report analyzing toy store sales performance across product categories, regions, and time. Built as a marketing analytics project for MKT 317.
 
