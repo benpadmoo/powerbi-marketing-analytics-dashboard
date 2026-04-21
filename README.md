@@ -14,12 +14,13 @@
 
 ---
 
-<!-- Optional preview image.
-     Export a screenshot from Power BI (File → Export → Export to PDF, or screenshot the canvas),
-     save it as `dashboard.png` in the repo root, then uncomment the line below.
+<p align="center">
+  <img src="dashboard.png" alt="Toy Store Sales Dashboard preview" width="800">
+</p>
 
-![Dashboard preview](dashboard.png)
--->
+<p align="center"><em>Click the <strong>▶ View Live Dashboard</strong> button above to interact with the report.</em></p>
+
+---
 
 ## Overview
 
